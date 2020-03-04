@@ -14,7 +14,7 @@ IEEE honor class
 
 ## Research Interests
 
-Index, Learned Index, Machine Learning, Database, Information Retrieval, Recommendation System
+Artificial Intelligence, Database, Information Retrieval, Recommendation System
 
 ## Publications
 1. Yuanning Gao, Jinbiao Ye, Nianzu Yang, Xiaofeng Gao, Guihai Chen. *A Middle Layer Based Scalable Learned Index Scheme*. Accepted by Ruan Jian Xue Bao/Journal of Software.
