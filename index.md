@@ -38,3 +38,5 @@ April 2019 -- Present
 1. Formulated the problem of Social-based Time-aware Spatial Keyword Query (STSKQ), which takes geo-spatial score, keywords similarity, visiting time score, and social relationship effect into consideration.
 2. Proposed a hybrid index structure, i.e., NETR-tree that exploits network embedding and efficient pruning strategies to tackle STSKQ.
 3. Conducted experiments and showed our framework outperforms the state-of-the-art algorithms for processing STSKQ on real-world datasets.
+
+[Click here to see my CV.](./CV_YNZ.pdf)
