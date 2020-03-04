@@ -4,7 +4,7 @@
 
 ## Education
 
-Shanghai Jiao Tong University
+Shanghai Jiao Tong University, China
 
 September 2017 -- April 2021
 
